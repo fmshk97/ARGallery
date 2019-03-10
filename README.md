@@ -1,5 +1,6 @@
 # AR Gallery
-Like gallery of photos on a phone, AR Gallery is a gallery for 3D models. Model once uploaded in gallery can be rendered and viewed using phone's camera in live scene. AR Gallery also allows to take a photo of the rendered camera scene.
+AR Gallery is an Android app and like gallery for photos and videos on a phone, AR Gallery is a gallery for 3D models. Model once uploaded in gallery can be rendered and viewed using phone's camera in live scene. AR Gallery also allow users to take photos of the rendered camera scene.
+* Download APK and try out AR Gallery here: [ARGallery.v1.0.apk](https://drive.google.com/open?id=1LJcBocMHAqsB8dgVeRLFR2hEUYUI072T)
 
 ## Features
 1. Upload 3D Sceneform models (.sfb format) to AR Gallery
