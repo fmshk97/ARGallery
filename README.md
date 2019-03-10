@@ -1,5 +1,5 @@
 # AR Gallery
-AR Gallery is an Android app and like gallery for photos and videos on a phone, AR Gallery is a gallery for 3D models. It allows user to upload their 3D object models and view them in augmented reality on an Android device. It also allow users to take photos of the augmented scene.
+AR Gallery is an Android app and like gallery for photos and videos on a phone, AR Gallery is a gallery for 3D models. It allows user to create collection of 3D object models by uploading them to AR Gallery. Any 3d model in collection can then be viewed in augmented reality on an Android device. It also allow users to take photos of the augmented scene.
 * Sounds cool? Download APK and try out AR Gallery here: [ARGallery.v1.0.apk](https://drive.google.com/open?id=1LJcBocMHAqsB8dgVeRLFR2hEUYUI072T)
 * **Note:** Not all Android devices support AR. Check out list of supported devices here: [Supported devices list](https://developers.google.com/ar/discover/supported-devices)
 * After installing AR Gallery, you can download a sample model and try uploading in AR Gallery from here: [Sample Sceneform model](https://drive.google.com/open?id=1709ohy0XhYJca04T2D0Do6dEfOkIouWA)
@@ -11,8 +11,8 @@ AR Gallery is an Android app and like gallery for photos and videos on a phone, 
 4. Capture and save photo of rendered scene
 
 ## Limitations
-Currently, AR Gallery support models only with **.sfb** extension. 
-However, .OBJ, .FBX, .glTF files can be converted to .sfb format using Sceneform plugin. More here: [Importing Sceneform assets](https://developers.google.com/ar/develop/java/sceneform/import-assets)
+* Currently, AR Gallery support models only with **.sfb** extension. However, .OBJ, .FBX, .glTF files can be converted to .sfb format using Sceneform plugin. More here: [Importing Sceneform assets](https://developers.google.com/ar/develop/java/sceneform/import-assets)
+* Only one model can be rendered at a time.
 
 ## Technical details
 * AR Gallery uses Google's [Sceneform SDK](https://developers.google.com/ar/develop/java/sceneform) to render Sceneform models (.sfb extension) in real time scene.
