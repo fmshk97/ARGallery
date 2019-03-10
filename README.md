@@ -5,10 +5,9 @@ AR Gallery is an Android app and like gallery for photos and videos on a phone, 
 * After installing AR Gallery, you can download a sample model and try uploading in AR Gallery from here: [Sample Sceneform model](https://drive.google.com/open?id=1709ohy0XhYJca04T2D0Do6dEfOkIouWA)
 
 ## Features
-1. Upload 3D Sceneform models (.sfb format) to AR Gallery
-2. Models once uploaded will be stored in AR Gallery and can be accessed easily
-3. Render uploaded 3D model in real time scene
-4. Capture and save photo of rendered scene
+* Create a collection of 3D models by uploading them to AR Gallery
+* View any 3D model from the collection in augmented reality
+* Capture and save photo of augmented scene
 
 ## Limitations
 * Currently, AR Gallery support models only with **.sfb** extension. However, .OBJ, .FBX, .glTF files can be converted to .sfb format using Sceneform plugin. More here: [Importing Sceneform assets](https://developers.google.com/ar/develop/java/sceneform/import-assets)
