@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AR Gallery</string>
+    <string name="action_about">About</string>
+    <string name="empty_gallery_msg">No Models in your Gallery!\n\nAdd Models to Gallery by pressing\nthe Add button on bottom right</string>
+</resources>
