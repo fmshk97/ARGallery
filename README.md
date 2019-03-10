@@ -12,7 +12,7 @@ AR Gallery is an Android app and like gallery for photos and videos on a phone, 
 
 ## Limitations
 Currently, AR Gallery support models only with **.sfb** extension. 
-To convert .OBJ, .FBX, .glTF files to .sfb format using Sceneform plugin, follow this link: https://developers.google.com/ar/develop/java/sceneform/import-assets
+However, .OBJ, .FBX, .glTF files can be converted to .sfb format using Sceneform plugin. More here: [Importing Sceneform assets](https://developers.google.com/ar/develop/java/sceneform/import-assets)
 
 ## Technical details
 * AR Gallery uses Google's [Sceneform SDK](https://developers.google.com/ar/develop/java/sceneform) to render Sceneform models (.sfb extension) in real time scene.
