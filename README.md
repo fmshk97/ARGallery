@@ -16,7 +16,7 @@ To convert .OBJ, .FBX, .glTF files to .sfb format using Sceneform plugin, follow
 
 ## Technical details
 * AR Gallery uses Google's [Sceneform SDK](https://developers.google.com/ar/develop/java/sceneform) to render Sceneform models (.sfb extension) in real time scene.
-* AR Gallery is Sereverless. There is no server involved in the backend and hence, no internet required. Uploaded models are stored on the device itself under root directory in ARGallery folder.
+* AR Gallery is Serverless. There is no server involved in the backend and hence, no internet required. Uploaded models are stored on the device itself under root directory in ARGallery folder.
 * AR Gallery requires only Camera and Storage permissions.
 
 ## References
