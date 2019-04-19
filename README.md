@@ -24,7 +24,5 @@ AR Gallery is an Android app and like gallery for photos and videos on a phone, 
 * Introduction to Sceneform on Codelabs: https://codelabs.developers.google.com/codelabs/sceneform-intro
 * Sample projects using Sceneform SDK (provided by Google): https://developers.google.com/ar/develop/java/sceneform/samples
 
-## Screenshot
-![AR Gallery](https://github.com/fmshk97/ARGallery/blob/master/Screenshots/01.jpg)    ![Model Upload](https://github.com/fmshk97/ARGallery/blob/master/Screenshots/04.jpg)
-
-![AR Session](https://github.com/fmshk97/ARGallery/blob/master/Screenshots/05.jpg)
+## Screenshots
+![AR Gallery](https://github.com/fmshk97/ARGallery/blob/master/Screenshots/01.jpg)    ![Model Upload](https://github.com/fmshk97/ARGallery/blob/master/Screenshots/04.jpg)    ![AR Session](https://github.com/fmshk97/ARGallery/blob/master/Screenshots/05.jpg)
