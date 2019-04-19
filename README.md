@@ -1,6 +1,6 @@
 # AR Gallery
 AR Gallery is an Android app and like gallery for photos and videos on a phone, AR Gallery is a gallery for 3D models. It allows user to create collection of 3D object models by uploading them to AR Gallery. Any 3d model in collection can then be viewed in augmented reality on an Android device. It also allow users to take photos of the augmented scene.
-* Sounds cool? Download APK and try out AR Gallery here: [ARGallery.v1.0.apk](https://drive.google.com/open?id=1x4SSm3FF41z1XM7tVJ_indP2dbrY39BR)
+* Sounds cool? Download APK and try out AR Gallery here: [ARGallery.v1.0.apk](https://drive.google.com/open?id=11NzOHwf0gIdtf0TZcBSydyvK0n4JYMLb)
 * **Note:** Not all Android devices support AR. Check out list of supported devices here: [Supported devices list](https://developers.google.com/ar/discover/supported-devices)
 * After installing AR Gallery, you can download a sample model and try uploading in AR Gallery from here: [Sample Sceneform model](https://github.com/fmshk97/ARGallery/tree/master/sample_models)
 
