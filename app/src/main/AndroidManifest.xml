@@ -17,6 +17,9 @@
         android:roundIcon="@drawable/cube_ico"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.NoActionBar">
+		
+		<meta-data android:name="com.google.ar.core" android:value="required" />
+		
         <activity android:name=".AboutActivity"></activity>
         <activity android:name=".ArActivity" />
         <activity android:name=".UploadActivity" />
